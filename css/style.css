@@ -283,3 +283,13 @@ a .btn {
 -moz-box-shadow: 0px 0px 15px 2px rgba(45,255,196,0.35);
 box-shadow: 0px 0px 15px 2px rgba(45,255,196,0.35);
 }
+
+.achievements:hover {
+-webkit-box-shadow:0px 0px 15px 2px rgba(45,255,196,0.35);
+-moz-box-shadow: 0px 0px 15px 2px rgba(45,255,196,0.35);
+box-shadow: 0px 0px 15px 2px rgba(45,255,196,0.35);
+}
+
+.ff-poppins {
+  font-family: poppins;
+}
